@@ -1,0 +1,8 @@
+{
+  "peerDependencies": {
+    "react": "^16.8.22"
+  },
+  "dependencies": {
+    "react": "^16.9.0-alpha.0"
+  }
+}
