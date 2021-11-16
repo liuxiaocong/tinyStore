@@ -2,11 +2,7 @@
 
 A tool help you share states between components, pages, projects and even different tab of browser, support any micro FE architecture
 
----
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/liuxiaocong/tinyStore/blob/main/tinystore.mov" type="video/mp4">
-</video>
+![image](https://raw.githubusercontent.com/liuxiaocong/tinyStore/main/tinystore.gif)
 
 ### Api
 
