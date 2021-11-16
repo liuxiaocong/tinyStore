@@ -4,6 +4,10 @@ A tool help you share states between components, pages and projects, support any
 
 ---
 
+![image](https://user-images.githubusercontent.com/8454869/141887306-330e7afd-3b06-45ae-9c97-8c153e712928.png)
+
+
+
 ### Api
 
 ```ts
