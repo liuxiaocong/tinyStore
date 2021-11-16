@@ -1,12 +1,12 @@
 # TinyStore
 
-A tool help you share states between components, pages and projects, support any micro FE architecture
+A tool help you share states between components, pages, projects and even different tab of browser, support any micro FE architecture
 
 ---
 
-![image](https://user-images.githubusercontent.com/8454869/141887306-330e7afd-3b06-45ae-9c97-8c153e712928.png)
-
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/liuxiaocong/tinyStore/blob/main/tinystore.mov" type="video/mp4">
+</video>
 
 ### Api
 
